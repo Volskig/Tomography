@@ -1,0 +1,21 @@
+﻿  ProjectTomogrDlg.cpp
+d:\projects\projecttomogr\projecttomogr\projecttomogrdlg.cpp(205): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\projects\projecttomogr\projecttomogr\projecttomogrdlg.cpp(233): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\projects\projecttomogr\projecttomogr\projecttomogrdlg.cpp(260): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\projects\projecttomogr\projecttomogr\projecttomogrdlg.cpp(287): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\projects\projecttomogr\projecttomogr\projecttomogrdlg.cpp(314): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\projects\projecttomogr\projecttomogr\projecttomogrdlg.cpp(342): warning C4305: инициализация: усечение из "__int64" в "int"
+d:\projects\projecttomogr\projecttomogr\projecttomogrdlg.cpp(342): warning C4309: инициализация: усечение константного значения
+d:\projects\projecttomogr\projecttomogr\projecttomogrdlg.cpp(378): warning C4305: =: усечение из "__int64" в "int"
+d:\projects\projecttomogr\projecttomogr\projecttomogrdlg.cpp(378): warning C4309: =: усечение константного значения
+d:\projects\projecttomogr\projecttomogr\projecttomogrdlg.cpp(404): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\projects\projecttomogr\projecttomogr\projecttomogrdlg.cpp(449): warning C4244: =: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+d:\projects\projecttomogr\projecttomogr\projecttomogrdlg.cpp(470): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+d:\projects\projecttomogr\projecttomogr\projecttomogrdlg.cpp(487): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+d:\projects\projecttomogr\projecttomogr\projecttomogrdlg.cpp(645): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\projects\projecttomogr\projecttomogr\projecttomogrdlg.cpp(680): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  ProjectTomogr.vcxproj -> D:\Projects\ProjectTomogr\x64\Debug\ProjectTomogr.exe

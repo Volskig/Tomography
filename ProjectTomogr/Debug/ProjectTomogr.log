@@ -1,0 +1,4 @@
+﻿  MultiplyMetod.cpp
+d:\projects\projecttomogr\projecttomogr\multiplymetod.cpp(24): warning C4018: <: несоответствие типов со знаком и без знака
+d:\projects\projecttomogr\projecttomogr\multiplymetod.cpp(26): warning C4018: <: несоответствие типов со знаком и без знака
+  ProjectTomogr.vcxproj -> D:\Projects\ProjectTomogr\Debug\ProjectTomogr.exe
